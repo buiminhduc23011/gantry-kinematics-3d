@@ -1,0 +1,3 @@
+# Preserve CAD exports byte-for-byte; review source changes in the CAD tool.
+*.stp binary
+*.step binary

@@ -1,0 +1,3 @@
+<Window x:Class="Robot.Desktop.MainWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:wv="clr-namespace:Microsoft.Web.WebView2.Wpf;assembly=Microsoft.Web.WebView2.Wpf" Title="Rodal / Motion Lab" Width="1500" Height="940" MinWidth="1050" MinHeight="700" Background="#111719" WindowStartupLocation="CenterScreen">
+  <wv:WebView2 x:Name="Browser" />
+</Window>

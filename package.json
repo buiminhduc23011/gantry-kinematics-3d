@@ -1,0 +1,1 @@
+{"name":"rodal-motion-lab","private":true,"type":"module","scripts":{"convert":"node scripts/convert-step.cjs","dev":"vite --host 127.0.0.1","build":"vite build"},"dependencies":{"three":"0.187.0"},"devDependencies":{"occt-import-js":"0.0.23","vite":"^7.0.0"}}
